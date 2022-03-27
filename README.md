@@ -1,3 +1,3 @@
-# self-taught
+# school
 
-Just the programs and code that I've been using to learn
+Just the programs and code that I've used throughout school.
